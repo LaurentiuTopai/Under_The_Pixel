@@ -32,7 +32,7 @@ The project is structured around a single source file that exposes five essentia
 ![Imagine ORIGINAL_DISTRIBUTION](ORIGINAL_DISTRIBUTION.png)
 ![Imagine LSB_DISTRIBUTION](LSB_DISTRIBUTION.png)
 ![Imagine MSB_DISTRIBUTION](MSB_DISTRIBUTION.png)
-![Imagine BLACK-WHITE_DISTRIBUTION](BLACK_WHITE_Opixeldistribution.png)
+![Imagine BLACK-WHITE_DISTRIBUTION](BLACK_WHITE_0pixeldistribution.png)
 **LSB (Least Significant Bit):** The modifications are visually imperceptible, making it ideal for real steganography.
 **MSB (Most Significant Bit):** Produces major chromatic artifacts due to the modification of the $2^{7}=128$ weight bit, making it highly visible and immediately detectable.
 
