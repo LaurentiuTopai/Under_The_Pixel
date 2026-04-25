@@ -1,0 +1,3 @@
+/home/laurentiu/Faculta/Pi/proiect2.0/build/CMakeFiles/SteganoPi.dir
+/home/laurentiu/Faculta/Pi/proiect2.0/build/CMakeFiles/edit_cache.dir
+/home/laurentiu/Faculta/Pi/proiect2.0/build/CMakeFiles/rebuild_cache.dir
